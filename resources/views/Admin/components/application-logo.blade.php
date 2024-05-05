@@ -1,0 +1,1 @@
+<img src="{{ asset('storage/images/ショップアイコン.png') }}" alt="Alternative Text" class="your-custom-class" width="60" height="60">
