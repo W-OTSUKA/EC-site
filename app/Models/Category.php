@@ -18,8 +18,8 @@ class Category extends Model
 
     ];
 
-    // public function item() {
-    //     return $this->hasMany(Item::class, 'category_id');
-    // }
-    // ↑必要かどうか
+    public function item() {
+        return $this->hasMany(Item::class, 'category_id');
+    }
+    
 }
