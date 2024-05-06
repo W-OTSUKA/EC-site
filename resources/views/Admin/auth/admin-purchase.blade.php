@@ -44,7 +44,7 @@
                                     <table class="table-auto w-full text-left whitespace-no-wrap">
                                         <thead>
                                             <tr>
-                                                <th class="text-left px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100 rounded-tl rounded-bl w-1/7">購入日時</th>
+                                                <th class="text-left px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100 rounded-tl rounded-bl w-1/7">販売日時</th>
                                                 <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100 w-2/7">カテゴリー名</th>
                                                 <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100 w-2/7">商品名</th>
                                                 <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100 w-1/7">価格</th>
